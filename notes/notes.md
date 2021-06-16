@@ -1,7 +1,3 @@
-# trinkets-api
-
-
-
 
 Module Materials:\
 Module Project: <https://github.com/LambdaSchool/web-module-project-testing-react>\
