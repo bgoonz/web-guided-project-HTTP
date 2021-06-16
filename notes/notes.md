@@ -51,3 +51,9 @@ Alternative GP Video: [Dustin Myers](https://youtu.be/ATr7QQP7lw4) | [Josh Ja
 
 
 ![picture 1](../images/cb83a5218ff21dde74cecbef53caf6eec4d731cbd5704f458cd66f88243444be.png)  
+
+
+![](crud.png)
+
+
+![](rest.png)
