@@ -18,8 +18,7 @@ function Item(props) {
     return <h2> Loading item data... </h2>;
   }
 
-  const deleteItem = (e) => {
-    e.preventDefault();
+  const deleteItem = ()=> {
     axios
       .delete(`http://localhost:3331/items/${item.id}`)
       .then((res) => {
